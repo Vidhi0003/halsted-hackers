@@ -1,6 +1,6 @@
 # safetyPinpoint
 
-I have not completely finished uploading this website, however this was a project that my team created for Uncommon Hacks 2025.
+I have not completely finished uploading this website, however this was a project that my team(halsted-hackers) created for Uncommon Hacks 2025.
 
 # Inspiration
 We were inspired to create this project because many people forget to get their vaccinations, causing millions of preventable deaths, especially among children. Lack of vaccination lead can lead to disease, which is why we want to raise awareness to the importance of vaccination especially for children and mothers who just gave birth.
