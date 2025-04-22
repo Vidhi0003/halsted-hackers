@@ -32,6 +32,14 @@ Auth0
 Pandas
 Python
 
+# Directions to run project on computer(Will not work until all files have been uploaded!)
+1. git clone the repository.
+2. cd halsted-hackers
+3. cd frontend
+4. npm install
+5. npm run dev
+6. Go to http://localhost:5173/
+
 # Link to DevPost
 
 Here is the link to our submission: https://devpost.com/software/safety-pinpoint
