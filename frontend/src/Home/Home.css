@@ -1,0 +1,32 @@
+.scrollable{
+    overflowY:'auto';
+}
+.container{
+    background: rgba(245, 245, 245, .86);
+    border-radius: 25px;
+    padding: 20px;
+    display: flex;
+    box-shadow: 0 4px 6px #0000001a;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    width: 55em;
+}
+.text {
+    font-size: 1.15em;
+    color: #14406e;
+    font-weight: 500
+}
+.gradient-text {
+    background: linear-gradient(180deg, #4cd0e4, #3babbc, #19484f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
