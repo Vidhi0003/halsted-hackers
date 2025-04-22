@@ -9,7 +9,7 @@ We were inspired to create this project because many people forget to get their 
 Our website allows users to keep track of when both parents and children’s vaccination appointments are by sending an email to parents. We also show interactive charts of data relating to important information for families, such as stillborn deaths connected to race. We hope to spread information about vaccinations and how vaccinations helps protect the health of infants as well as help protect adults from spreading any diseases.
 
 # How we built it
-We used React for frontend, NodeJS and Express for backend, and Firestore for the database. Auth0 is used for authentication and login mechanism. We use Pandas, Python for cleaning and processing data for the data analysis.
+We used React for frontend, NodeJS and Express for backend, and Firestore for the database. Auth0 is used for authentication and login mechanism. We use Pandas, Python for cleaning and processing data for the data analysis. We also added Gemini API to allow users to ask questions about adverse reactions to vaccinations.
 
 # Challenges we ran into
 We had a lot of trouble in brainstorming proper idea that suites the "Public Safety" Challenge. We wanted to go down this route because preventable care is very overlooked because of how simple some tasks may be. So, we ended up spending a lot of time designing an idea that would actually be meaningful and used by the general public.
@@ -31,6 +31,7 @@ Firestone
 Auth0
 Pandas
 Python
+Gemini API
 
 # Directions to run project on computer(Will not work until all files have been uploaded!)
 1. git clone the repository.
